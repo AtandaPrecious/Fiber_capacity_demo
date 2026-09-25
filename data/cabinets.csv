@@ -1,0 +1,4 @@
+cabinet_id,street,lat,lon,fed_from_type,fed_from_id,no_of_trays,ports_per_tray
+CAB-0012,Adeola Street,6.6042,3.3538,ODF,ODF-IKJ-01,4,12
+CAB-0015,Opebi Road,6.6033,3.359,Cabinet,CAB-0012,1,12
+CAB-0020,Awolowo Way,6.599,3.356,ODF,ODF-IKJ-01,2,10

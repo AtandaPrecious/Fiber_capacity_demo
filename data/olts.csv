@@ -1,0 +1,2 @@
+olt_id,name,pop_id,lat,lon,no_of_pon_ports,capacity_per_pon
+OLT-IKJ-01,Ikeja-OLT-Main,POP-IKJ-01,6.6018,3.3515,8,128

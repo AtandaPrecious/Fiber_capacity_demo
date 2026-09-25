@@ -1,0 +1,4 @@
+fdt_id,street,lat,lon,ratio,customers_per_output,fed_from_type,fed_from_id
+FDT-0021,Adeola Street,6.6046,3.3541,1:2,32,Cabinet,CAB-0012
+FDT-0022,Opebi Road,6.6036,3.3595,1:4,32,Cabinet,CAB-0015
+FDT-0023,Allen Avenue,6.6025,3.3525,1:2,32,Cabinet,CAB-0012

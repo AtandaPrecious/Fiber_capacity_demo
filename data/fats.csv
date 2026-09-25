@@ -1,0 +1,17 @@
+fat_id,street,estate,lat,lon,ratio,fdt_id,fdt_output_port,upstream_fat_id
+FAT-0144,Adeola Street,Magodo Estate,6.605,3.3544,1:9,FDT-0021,1,
+FAT-0145,Adeola Street,Magodo Estate,6.6057,3.3546,1:9,FDT-0021,1,FAT-0144
+FAT-0146,Toyin Street,Magodo Estate,6.6064,3.3548,1:9,FDT-0021,1,FAT-0145
+FAT-0147,Toyin Street,(none),6.6071,3.355,1:8,FDT-0021,1,FAT-0146
+FAT-0150,Adeola Street,Magodo Estate,6.6047,3.3552,1:9,FDT-0021,2,
+FAT-0151,Adeola Street,Magodo Estate,6.6048,3.356,1:8,FDT-0021,2,FAT-0150
+FAT-0160,Opebi Road,Omole Phase 1,6.6038,3.36,1:9,FDT-0022,1,
+FAT-0161,Opebi Road,Omole Phase 1,6.604,3.3606,1:9,FDT-0022,1,FAT-0160
+FAT-0162,Opebi Road,Omole Phase 1,6.6042,3.3612,1:9,FDT-0022,1,FAT-0161
+FAT-0163,Opebi Road,Omole Phase 1,6.6044,3.3618,1:9,FDT-0022,1,FAT-0162
+FAT-0164,Opebi Road,Omole Phase 1,6.6046,3.3624,1:8,FDT-0022,1,FAT-0163
+FAT-0170,Awolowo Way,(none),6.603,3.36,1:9,FDT-0022,2,
+FAT-0171,Awolowo Way,(none),6.6024,3.3604,1:8,FDT-0022,2,FAT-0170
+FAT-0180,Allen Avenue,Ikeja GRA,6.6021,3.3523,1:9,FDT-0023,1,
+FAT-0181,Allen Avenue,Ikeja GRA,6.6016,3.3521,1:9,FDT-0023,1,FAT-0180
+FAT-0182,Allen Avenue,Ikeja GRA,6.6011,3.3519,1:8,FDT-0023,1,FAT-0181

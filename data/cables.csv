@@ -1,0 +1,7 @@
+cable_id,cable_type,no_of_cores,from_type,from_id,to_type,to_id,length_m
+CBL-0100,Feeder,12,ODF,ODF-IKJ-01,Cabinet,CAB-0012,620
+CBL-0110,Feeder,24,ODF,ODF-IKJ-01,Cabinet,CAB-0020,540
+CBL-0200,Distribution,12,Cabinet,CAB-0012,FDT,FDT-0021,180
+CBL-0230,Distribution,12,Cabinet,CAB-0012,FDT,FDT-0023,260
+CBL-0300,Distribution,12,Cabinet,CAB-0012,Cabinet,CAB-0015,580
+CBL-0310,Distribution,12,Cabinet,CAB-0015,FDT,FDT-0022,90
